@@ -11,7 +11,6 @@ This project analyzes Amazon sales data to uncover key metrics, trends, and mean
 - [Relationships Analysis](#relationships-analysis)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -69,22 +68,8 @@ The relationships analysis explores:
 - Seaborn
 
 ## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/rahuljaiswar/Amazon-Sales-Data-Analysis.git
-2. Navigate to the project directory:
-   ```bash
-   cd Amazon-Sales-Data-Analysis
-3. Install the required packages and Run the analysis script:
-   ```bash
-   pip install -r requirements.txt
-
-## Usage
-1. Place your Amazon sales data CSV file in the project directory.
-2. Run the analysis script:
-   ```bash
-   python analysis.py
-   
+1. Here is the google colab notebook link: https://colab.research.google.com/drive/1T2Y7lEeiH7TAwjhKcvsW9weeF2Q_bAgr?usp=sharing
+2. Download the data and upload it on google colab and explore the notebook.
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
